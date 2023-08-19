@@ -16,7 +16,7 @@ Find me on <a rel="me" href="https://mas.to/@nmoo">Mastodon</a>.
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+| <a href="https://now-playing-spotify-internettrashh.vercel.app/"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
 
 <table>
